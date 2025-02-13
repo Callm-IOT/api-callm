@@ -40,9 +40,9 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 ### Organigrama
 ![Organigrama](Captura%20de%20pantalla%202025-02-13%20122848.png)
 
+### Diagrama de Gantt
 ![Gantt](https://github.com/Callm-IOT/api-callm/blob/main/Gantt%20Callm.jpg)
 
-### Diagrama de Gantt
 
 ### Paleta de colores
 
@@ -56,9 +56,8 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 
 ## Autores
 
-- [Nombre 1](https://github.com/) - Hardware y Electrónica
-- [Nombre 2](https://github.com/) - Desarrollo Backend
-- [Nombre 3](https://github.com/) - Desarrollo Frontend
-- \- [Josué Atlai Martínez Otero.]\([https://github.com/Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)) - Líder de Base de Datos.&#x20;
-- [Nombre 4](https://github.com/) - Diseño y Documentación
+- [Josué Atlai Martínez Otero](https://github.com/Josue-Martinez-Otero) - Base de Datos  
+- [Jesús Antonio Estrada Jiménez](https://github.com/antcodernez) - Desarrollo Backend y Frontend  
+- [Amaury Romero Martínez](https://github.com/AmauryRomero1285) - IoT  
+- Daniel - Diseño y Documentación ([blacktemplehood@gmail.com](mailto:blacktemplehood@gmail.com))  
 
