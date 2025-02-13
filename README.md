@@ -32,49 +32,13 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 
 ---
 
-\### Paleta de colores
-
-\<table>
-
-&#x20;\<tr>
-
-&#x20;\<td>\<img src="FrontEnd/Assets/Icons/0a2463 (1).png" width="10px">\</td>
-
-&#x20;\<td>#0A2463\</td>
-
-&#x20;\</tr>
-
-&#x20;\<tr>
-
-&#x20;\<td>\<img src="FrontEnd/Assets/Icons/30d5c8.png" width="10px">\</td>
-
-&#x20;\<td>#30D5C8\</td>
-
-&#x20;\</tr>
-
-&#x20; \<tr>
-
-&#x20;\<td>\<img src="FrontEnd/Assets/Icons/daf0fb.png" width="10px">\</td>
-
-&#x20;\<td>#DAFBF9\</td>
-
-&#x20;\</tr>
-
-&#x20; \<tr>
-
-&#x20;\<td>\<img src="FrontEnd/Assets/Icons/F5F5F5.png" width="10px">\</td>
-
-&#x20;\<td>#F5F5F5\</td>
-
-&#x20;\</tr>
-
-\</table>
 
 ---
 
 ## Identidad Gráfica
 
 ### Organigrama
+
 
 ### Diagrama de Gantt
 
