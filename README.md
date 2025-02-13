@@ -38,6 +38,7 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 ## Identidad Gráfica
 
 ### Organigrama
+![Organigrama](Captura%20de%20pantalla%202025-02-13%20122848.png)
 
 
 ### Diagrama de Gantt
