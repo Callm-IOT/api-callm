@@ -1,76 +1,98 @@
-# api-callm
-# ORATIO
-|  Logo de Empresa | Logo del Producto |
-| :------------: | :------------: | 
-| <img src="FrontEnd/Assets/Icons/Logo-Simeio.png" width="150">| <img src="FrontEnd/Assets/Icons/Combination Mark.png"  width="160">  | 
+# CallM: a# api-callm
+
+## TIMBRE DIGITAL INTELIGENTE
+
+| Logo de Empresa | Logo del Producto |
+| --------------- | ----------------- |
+|                 |                   |
 
 ## Descripción
 
-**ORATIO** es una plataforma dedicada a la enseñanza del lenguaje de señas para hispanohablantes, proporcionándoles recursos accesibles e interactivos para nuestros usuarios.
+El **Timbre Digital Inteligente** es un dispositivo IoT diseñado para brindar mayor seguridad a los hogares mediante llamadas bidireccionales al celular del dueño de la casa. Este sistema permite comunicación en tiempo real con la persona que toca el timbre y ofrece funcionalidades avanzadas para mejorar la seguridad del hogar.
 
 ## Problemática
 
-La falta de interés en las personas para aprender el lenguaje de señas. A pesar de no encontrarnos constantemente en situaciones que requieran esta habilidad, las barreras de comunicación entre personas sordas y oyentes dificultan la integración y la inclusión social.
+La falta de mecanismos eficientes de comunicación y seguridad en los hogares expone a los residentes a situaciones de riesgo. Los métodos tradicionales de timbres no permiten la identificación remota de visitantes ni la posibilidad de comunicación a distancia.
 
 ## Propuesta de Solución
 
-Desarrollar una página web que sea intuitiva y accesible, disponible en varios dispositivos, que ofrezca cursos de lenguaje de señas. Esta plataforma estará centrada en mejorar la comunicación efectiva entre ambos grupos.
+Desarrollar un **timbre digital inteligente** que establezca una conexión bidireccional con el teléfono del propietario, permitiendo interacción en tiempo real. El dispositivo incluirá opciones de videollamada, integración con asistentes de voz y funciones de seguridad avanzadas.
 
 ## Objetivo General
 
-> Realizar una página web que permita al usuario aprender y concientizar sobre el uso del lenguaje de señas mediante actividades designadas.
+> Diseñar e implementar un timbre digital inteligente que permita comunicación bidireccional con el propietario del hogar, mejorando la seguridad y control de acceso.
 
 ## Objetivos Específicos
 
-1. Desarrollar una interfaz de usuario intuitiva y accesible tanto para los dispositivos móviles como para los de escritorio.
-2. Proveer materiales educativos actualizados.
-3. Implementar programas de tutoría que mejoren el conocimiento del usuario.
-4. Integrar herramientas de análisis para monitorear el comportamiento y progreso del usuario.
-5. Permitir al usuario generar una cuenta accesible en todo momento.
+1. Desarrollar una aplicación móvil que permita recibir llamadas del timbre digital.
+2. Integrar tecnología de reconocimiento facial y videollamadas.
+3. Implementar notificaciones inteligentes y almacenamiento de registros.
+4. Garantizar compatibilidad con asistentes de voz como Alexa y Google Assistant.
+5. Diseñar una interfaz accesible e intuitiva para la configuración del dispositivo.
 
 ---
 
+\### Paleta de colores
+
+\<table>
+
+&#x20;\<tr>
+
+&#x20;\<td>\<img src="FrontEnd/Assets/Icons/0a2463 (1).png" width="10px">\</td>
+
+&#x20;\<td>#0A2463\</td>
+
+&#x20;\</tr>
+
+&#x20;\<tr>
+
+&#x20;\<td>\<img src="FrontEnd/Assets/Icons/30d5c8.png" width="10px">\</td>
+
+&#x20;\<td>#30D5C8\</td>
+
+&#x20;\</tr>
+
+&#x20; \<tr>
+
+&#x20;\<td>\<img src="FrontEnd/Assets/Icons/daf0fb.png" width="10px">\</td>
+
+&#x20;\<td>#DAFBF9\</td>
+
+&#x20;\</tr>
+
+&#x20; \<tr>
+
+&#x20;\<td>\<img src="FrontEnd/Assets/Icons/F5F5F5.png" width="10px">\</td>
+
+&#x20;\<td>#F5F5F5\</td>
+
+&#x20;\</tr>
+
+\</table>
+
+---
 
 ## Identidad Gráfica
 
 ### Organigrama
-<img src="FrontEnd/Assets/Icons/Diagrama-Roles.png" width="250">
 
 ### Diagrama de Gantt
-<img src="FrontEnd/Assets/Icons/Oratio_Gantt.png" width="250">
 
 ### Paleta de colores
-<table>
- <tr>
- <td><img src="FrontEnd/Assets/Icons/0a2463 (1).png" width="10px"></td>
- <td>#0A2463</td>
- </tr>
- <tr>
- <td><img src="FrontEnd/Assets/Icons/30d5c8.png" width="10px"></td>
- <td>#30D5C8</td>
- </tr>
-  <tr>
- <td><img src="FrontEnd/Assets/Icons/daf0fb.png" width="10px"></td>
- <td>#DAFBF9</td>
- </tr>
-  <tr>
- <td><img src="FrontEnd/Assets/Icons/F5F5F5.png" width="10px"></td>
- <td>#F5F5F5</td>
- </tr>
-</table>
 
 ## Lista de Tecnologías
 
-- Servidor: ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-- Pruebas: ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-- Cliente: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- Documentación: ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- **Hardware:** ESP32, Cámara IP, Sensores de movimiento
+- **Software:** &#x20;
+- **Pruebas:**&#x20;
+- **Cliente:** &#x20;
+- **Documentación:**&#x20;
 
-## Autores 
-- [Josué Atlai Martínez Otero.](https://github.com/Josue-Martinez-Otero) - Líder de Base de Datos. 
-- [Yáred Amaury Romero Martínez.](https://github.com/AmauryRomero1285) - Líder de Backend.
-- [Uriel Abdalah Torres Medina.](https://github.com/UrielMedina0302) - Líder Frontend.
-- [Marcos de Jesús Ríos Durán.](https://github.com/Marcos-Jesus-Rios-Duran) - Líder de Documentación
-- [Juvenal Viveros.](https://github.com/Juvenal-Viveros) - Desarrollo la Documentación
+## Autores
 
+- [Nombre 1](https://github.com/) - Hardware y Electrónica
+- [Nombre 2](https://github.com/) - Desarrollo Backend
+- [Nombre 3](https://github.com/) - Desarrollo Frontend
+- \- [Josué Atlai Martínez Otero.]\([https://github.com/Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)) - Líder de Base de Datos.&#x20;
+- [Nombre 4](https://github.com/) - Diseño y Documentación
 
