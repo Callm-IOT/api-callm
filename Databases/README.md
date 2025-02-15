@@ -2,7 +2,7 @@
 
   En este apartado se encontraran los archivos, imagenes, diagramas, scripts, queries, triggers y USPs del proyecto ORATIO.
   ## Estructura de Archivos
-   >ORATIO<br>
+   >CallM<br>
    >**| -Database**<br>
    >&nbsp;&nbsp; | -Backups<br>
    >&nbsp;&nbsp; | -Data Dictionary<br>
