@@ -57,7 +57,8 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 ## Autores
 
 - [Josué Atlai Martínez Otero](https://github.com/Josue-Martinez-Otero) - Base de Datos  
-- [Jesús Antonio Estrada Jiménez](https://github.com/antcodernez) - Desarrollo Backend y Frontend  
-- [Amaury Romero Martínez](https://github.com/AmauryRomero1285) - IoT  
-- Daniel - Diseño y Documentación ([blacktemplehood@gmail.com](mailto:blacktemplehood@gmail.com))  
+- [Jesús Antonio Estrada Jiménez](https://github.com/antcodernez) - IoT/Desarrollo Backend/Desarrollo Frontend  
+- [Amaury Romero Martínez](https://github.com/AmauryRomero1285) - IoT/Desarrollo Backend
+- Daniel - Diseño/Documentación ([blacktemplehood@gmail.com](mailto:blacktemplehood@gmail.com))
+- [Antonio Ocpaco Dolores](https://github.com/ANTONIOOCPACODOLORES) - Diseño/Documentación 
 
