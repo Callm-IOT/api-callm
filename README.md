@@ -38,7 +38,7 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 ## Identidad Gráfica
 
 ### Organigrama
-![Organigrama](Captura%20de%20pantalla%202025-02-13%20122848.png)
+![Organigrama](https://github.com/Callm-IOT/api-callm/blob/main/CallMOrGa.png)
 
 ### Diagrama de Gantt
 ![Gantt](https://github.com/Callm-IOT/api-callm/blob/main/Gantt%20Callm.jpg)
