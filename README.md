@@ -41,7 +41,7 @@ Desarrollar un **timbre digital inteligente** que establezca una conexión bidir
 ![Organigrama](https://github.com/Callm-IOT/api-callm/blob/main/CallMOrGa.png)
 
 ### Diagrama de Gantt
-![Gantt](https://github.com/Callm-IOT/api-callm/blob/main/Gantt%20Callm.jpg)
+![Gantt](https://github.com/Callm-IOT/api-callm/blob/main/Gr%C3%A1fico%20Diagrama%20de%20Gantt%20CallM.png)
 
 
 ### Paleta de colores
